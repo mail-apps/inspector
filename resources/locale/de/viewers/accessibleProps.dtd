@@ -43,4 +43,16 @@
 <!ENTITY descState.label "Status:">
 <!ENTITY descActionName.label "Aktionsname:">
 <!ENTITY descBounds.label "Maße:">
-
+<!ENTITY tabAttrs.label "Objektattribute">
+<!ENTITY colAttrName.label "Name">
+<!ENTITY colAttrValue.label "Wert">
+<!ENTITY tabTableCell.label "Tabellenzelle">
+<!ENTITY descColumnIdx.label "Spaltenindex:">
+<!ENTITY descRowIdx.label "Zeilenindex:">
+<!ENTITY descColumnExtent.label "Spaltenbreite:">
+<!ENTITY descRowExtent.label "Zeilenhöhe:">
+<!ENTITY descIsSelected.label "Ist ausgewählt:">
+<!ENTITY colProp.label "Eigenschaft">
+<!ENTITY colRole.label "Rolle">
+<!ENTITY colName.label "Name">
+<!ENTITY colNodeName.label "Knoten-Name">
