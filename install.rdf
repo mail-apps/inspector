@@ -93,6 +93,17 @@
     <em:creator>mozilla.org</em:creator>
     <em:homepageURL>http://www.mozilla.org/projects/inspector/</em:homepageURL>
 
+    <em:localized><!-- Greek -->
+      <Description>
+        <em:locale>el</em:locale>
+        <em:name>Επιθεωρητής DOM</em:name>
+        <em:description>Επιθεωρεί τη δομή και τις ιδιότητες ενός παραθύρου και των περιεχομένων του.</em:description>
+        <em:creator>mozilla.org</em:creator>
+        <em:translator>Γιώργος Μαλαμάς (el)</em:translator>
+        <em:homepageURL>http://www.mozilla.org/projects/inspector/</em:homepageURL>
+      </Description>
+    </em:localized>
+
     <em:localized>
       <Description>
         <em:locale>sk</em:locale>
