@@ -13,11 +13,13 @@ include $(DEPTH)/config/autoconf.mk
 
 ALL_LOCALES = \
 	de \
+	el \
 	en-GB \
 	en-US \
 	pl \
 	ru \
 	sk \
+	sv-SE \
 	$(NULL)
 
 include $(topsrcdir)/config/config.mk

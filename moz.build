@@ -4,11 +4,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 DIRS += [
-    'base',
     'resources',
 ]
 
 XPI_NAME = 'inspector'
 export('XPI_NAME')
 
+NO_JS_MANIFEST = True
+USE_EXTENSION_MANIFEST = True
+
 JAR_MANIFESTS += ['jar.mn']
+
+JS_PREFERENCE_FILES += [
+    'resources/content/prefs/inspector.js',
+]
+
+EXTRA_COMPONENTS += [
+    'base/js/inspector-cmdline.js',
+]
